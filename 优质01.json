@@ -77,12 +77,6 @@
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/lxhfans/TVBox/master/duanju.json","name":"lxhfans_duanju"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/lxhfans/TVBox/master/短剧.json","name":"lxhfans_短剧"},
 
-⚠
-Error: Parse error on line 78:
-...me":"lxhfans_短剧"},//{"url":"https://t
----------------------^
-Expecting 'STRING', 'NUMBER', 'NULL', 'TRUE', 'FALSE', '{', '[', got 'undefined'
-//
 {"url":"https://tvbox.cainisi.cf/mao.php?url=http://我不是.肥猫.love:63","name":"肥猫"},
 {"url":"https://tvbox.cainisi.cf/mao.php?url=http://肥猫.love","name":"肥猫2"},
 {"url":"https://tvbox.cainisi.cf/mao.php?url=http://饭太硬.top/tv","name":"饭太硬"},
