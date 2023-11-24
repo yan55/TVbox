@@ -2,9 +2,7 @@
 	// https://mirror.ghproxy.com/
 	"urls":[
 	{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/lxhfans/TVBox/master/tv.txt","name":"lxhfans_tv"},
-	{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/c120487/00/main/00wh0515.txt","name":"c120487_00wh0515"},
 	{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/c120487/00/main/1028.txt","name":"c120487_1028"},
-	{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/%E4%B8%80%E6%9C%A8%E5%A4%9A%E7%BA%BF%E8%B7%AF.json","name":"一木多路线"},
 	{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/1.json","name":"niubihu1_01"},
 	{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/2.json","name":"niubihu1_02"},
 	{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/3.json","name":"niubihu1_03"},
@@ -80,7 +78,88 @@
     {"url":"https://mirror.ghproxy.com/https://github.com/franksun1211/TVBOX/raw/main/0706.json","name":"franksun1211_0706","baes":"https://github.com/franksun1211/TVBOX/","path":"https://github.com/franksun1211/TVBOX/raw/main/"},
     {"url":"https://mirror.ghproxy.com/https://github.com/Guard-H/tvbox/raw/main/fj.json","name":"Guard-H_fj","baes":"https://github.com/Guard-H/tvbox/","path":"https://github.com/Guard-H/tvbox/raw/main/"},
     {"url":"https://mirror.ghproxy.com/https://github.com/yw88075/tvbox/raw/main/dr/js.json","name":"yw88075_js","baes":"https://github.com/yw88075/tvbox/","path":"https://github.com/yw88075/tvbox/raw/main/dr/"},
-    {"url":"https://mirror.ghproxy.com/https://github.com/Dong-learn9/TVBox-zyjk/raw/main/tvbox2.json","name":"Dong-learn9_tvbox2","baes":"https://github.com/Dong-learn9/TVBox-zyjk/","path":"https://github.com/Dong-learn9/TVBox-zyjk/raw/main/"}	
+    {"url":"https://mirror.ghproxy.com/https://github.com/Dong-learn9/TVBox-zyjk/raw/main/tvbox2.json","name":"Dong-learn9_tvbox2","baes":"https://github.com/Dong-learn9/TVBox-zyjk/","path":"https://github.com/Dong-learn9/TVBox-zyjk/raw/main/"},
+        
+        {
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json",
+            "name": "🚀宝盒线路"
+        },
+        {
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com//yydfys/yydf/main/XYQTVBox/xyq.json",
+            "name": "🚀香雅情镜像线路"
+        },
+        {
+            "url": "https://xn--3d2a1b.eu.org/",
+            "name": "🚀蜂蜜线路推荐"
+        },
+        {
+            "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
+            "name": "🚀酷安潇洒哥线路"
+        },
+        {
+            "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json",
+            "name": "🚀FongMI线路"
+        },
+        {
+            "url": "http://pandown.pro/tvbox/tvbox.json",
+            "name": "🚀巧计线路"
+        },
+        {
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lxhfans/TV/master/tv.txt",
+            "name": "🚀乐享汇线路"
+        },
+        {
+            "url": "http://t.84jia.com:80/tvbox/tvbox.json",
+            "name": "🚀小鱼线路"
+        },
+        {
+            "url": "https://weixine.net/ysc.json",
+            "name": "🚀运输车路"
+        },
+        {
+            "url": "http://rihou.cc:99/荷城茶秀",
+            "name": "🚀荷城茶秀线路"
+        },
+        {
+            "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
+            "name": "🚀云星日记线路"
+        },
+        {
+            "url": "https://100km.top/0",
+            "name": "🚀骚 0线路"
+        },
+        {
+            "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json",
+            "name": "🚀霜辉月明 py"
+        },
+        {
+            "url": "https://tvbox.cainisi.cf",
+            "name": "🚀菜妮丝 XBPQ"
+        },
+        {
+            "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+            "name": "🚀高天流云js"
+        },
+        {
+            "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+            "name": "🚀高天流云 XYQ"
+        },
+        {
+            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+            "name": "🚀南风线路"
+        },
+        {
+            "url": "https://神器每日推送.tk/pz.json",
+            "name": "🚀神器线路"
+        },
+        {
+            "url": "http://www.lyyytv.cn/yt/yt.json",
+            "name": "🚀影探线路"
+        },
+        {
+            "url": "http://dxawi.github.io/0/0.json",
+            "name": "🚀dxawi线路"
+        }
 	]
 }
 
