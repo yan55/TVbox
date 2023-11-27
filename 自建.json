@@ -159,7 +159,42 @@
         {
             "url": "http://dxawi.github.io/0/0.json",
             "name": "🚀dxawi线路"
-        }
+        },
+		{
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/1280283789/TVBOX/main/ysgy.json",
+            "name": "🚀ysgy"
+        },
+		{
+            "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
+            "name": "🚀pizazz_mai"
+        },
+		{
+            "url": "https://raw.githubusercontent.com/fuping685/tvbox/main/source.json",
+            "name": "🚀soure"
+        },
+	{"url":"https://mirror.ghproxy.com/https://github.com/heroaku/TVboxo/raw/main/Text/ptest.json","name":"heroaku_ptest","baes":"https://mirror.ghproxy.com/https://github.com/heroaku/TVboxo/","path":"https://mirror.ghproxy.com/https://github.com/heroaku/TVboxo/raw/main/Text/" },
+    {"url":"https://mirror.ghproxy.com/https://github.com/heroaku/TVboxo/raw/main/Text/pyn.json","name":"heroaku_pyn","baes":"https://mirror.ghproxy.com/https://github.com/heroaku/TVboxo/","path":"https://mirror.ghproxy.com/https://github.com/heroaku/TVboxo/raw/main/Text/" },
+    {"url":"https://mirror.ghproxy.com/https://github.com/heroaku/TVboxo/raw/main/Text/ayn.json","name":"heroaku_ayn","baes":"https://mirror.ghproxy.com/https://github.com/heroaku/TVboxo/","path":"https://mirror.ghproxy.com/https://github.com/heroaku/TVboxo/raw/main/Text/" },
+    {"url":"https://mirror.ghproxy.com/https://github.com/heroaku/TVboxo/raw/main/Text/dtes.json","name":"heroaku_dtes","baes":"https://mirror.ghproxy.com/https://github.com/heroaku/TVboxo/","path":"https://mirror.ghproxy.com/https://github.com/heroaku/TVboxo/raw/main/Text/"},
+    {"url":"https://mirror.ghproxy.com/https://github.com/gaotianliuyun/gao/raw/master/0821.json","name":"gaotianliuyun_0821","baes":"https://mirror.ghproxy.com/https://github.com/gaotianliuyun/gao/","path":"https://mirror.ghproxy.com/https://github.com/gaotianliuyun/gao/raw/master/"},
+    {"url":"https://mirror.ghproxy.com/https://github.com/gaotianliuyun/gao/raw/master/0826.json","name":"gaotianliuyun_0826","baes":"https://mirror.ghproxy.com/https://github.com/gaotianliuyun/gao/","path":"https://mirror.ghproxy.com/https://github.com/gaotianliuyun/gao/raw/master/"},
+    {"url":"https://mirror.ghproxy.com/https://github.com/gaotianliuyun/gao/raw/master/0827.json","name":"gaotianliuyun_0827","baes":"https://mirror.ghproxy.com/https://github.com/gaotianliuyun/gao/","path":"https://mirror.ghproxy.com/https://github.com/gaotianliuyun/gao/raw/master/"},
+    {"url":"https://mirror.ghproxy.com/https://github.com/gaotianliuyun/gao/raw/master/0825.json","name":"gaotianliuyun_0825","baes":"https://mirror.ghproxy.com/https://github.com/gaotianliuyun/gao/","path":"https://mirror.ghproxy.com/https://github.com/gaotianliuyun/gao/raw/master/"},
+    {"url":"https://mirror.ghproxy.com/https://github.com/gaotianliuyun/gao/raw/master/0707.json","name":"gaotianliuyun_0707","baes":"https://mirror.ghproxy.com/https://github.com/gaotianliuyun/gao/","path":"https://mirror.ghproxy.com/https://github.com/gaotianliuyun/gao/raw/master/"},
+    {"url":"https://mirror.ghproxy.com/https://github.com/gaotianliuyun/gao/raw/master/0821.json","name":"0821","baes":"https://mirror.ghproxy.com/https://github.com/gaotianliuyun/gao/","path":"https://mirror.ghproxy.com/https://github.com/gaotianliuyun/gao/raw/master/"},
+    {"url":"https://mirror.ghproxy.com/https://github.com/gaotianliuyun/gao/raw/master/0822.json","name":"0822","baes":"https://mirror.ghproxy.com/https://github.com/gaotianliuyun/gao/","path":"https://mirror.ghproxy.com/https://github.com/gaotianliuyun/gao/raw/master/"},
+    {"url":"https://mirror.ghproxy.com/https://github.com/gaotianliuyun/gao/raw/master/0826.json","name":"0826","baes":"https://mirror.ghproxy.com/https://github.com/gaotianliuyun/gao/","path":"https://mirror.ghproxy.com/https://github.com/gaotianliuyun/gao/raw/master/"},
+    {"url":"https://mirror.ghproxy.com/https://github.com/gaotianliuyun/gao/raw/master/0827.json","name":"0827","baes":"https://mirror.ghproxy.com/https://github.com/gaotianliuyun/gao/","path":"https://mirror.ghproxy.com/https://github.com/gaotianliuyun/gao/raw/master/"},
+    {"url":"https://mirror.ghproxy.com/https://github.com/gaotianliuyun/gao/raw/master/js.json","name":"js","baes":"https://mirror.ghproxy.com/https://github.com/gaotianliuyun/gao/","path":"https://mirror.ghproxy.com/https://github.com/gaotianliuyun/gao/raw/master/"},
+    {"url":"https://mirror.ghproxy.com/https://github.com/gaotianliuyun/gao/raw/master/XBPQ.json","name":"XBPQ","baes":"https://mirror.ghproxy.com/https://github.com/gaotianliuyun/gao/","path":"https://mirror.ghproxy.com/https://github.com/gaotianliuyun/gao/raw/master/"},
+    {"url":"https://mirror.ghproxy.com/https://github.com/gaotianliuyun/gao/raw/master/XYQ.json","name":"XYQ","baes":"https://mirror.ghproxy.com/https://github.com/gaotianliuyun/gao/","path":"https://mirror.ghproxy.com/https://github.com/gaotianliuyun/gao/raw/master/"},
+    {"url":"https://mirror.ghproxy.com/https://github.com/xianyuyimu/TVBOX-/raw/main/TVBox/%E4%B8%80%E6%9C%A8%E8%87%AA%E7%94%A8.json","name":"xianyuyimu_一木自用","baes":"https://mirror.ghproxy.com/https://github.com/xianyuyimu/TVBOX-/","path":"https://mirror.ghproxy.com/https://github.com/xianyuyimu/TVBOX-/raw/main/TVBox/"},
+    {"url":"https://mirror.ghproxy.com/https://github.com/2hacc/TVBox/raw/main/tvbox.json","name":"2hacc_tvbox","baes":"https://mirror.ghproxy.com/https://github.com/2hacc/TVBox/","path":"https://mirror.ghproxy.com/https://github.com/2hacc/TVBox/raw/main/"},
+    {"url":"https://mirror.ghproxy.com/https://github.com/franksun1211/TVBOX/raw/main/0706.json","name":"franksun1211_0706","baes":"https://mirror.ghproxy.com/https://github.com/franksun1211/TVBOX/","path":"https://mirror.ghproxy.com/https://github.com/franksun1211/TVBOX/raw/main/"},
+    {"url":"https://mirror.ghproxy.com/https://github.com/Guard-H/tvbox/raw/main/fj.json","name":"Guard-H_fj","baes":"https://mirror.ghproxy.com/https://github.com/Guard-H/tvbox/","path":"https://mirror.ghproxy.com/https://github.com/Guard-H/tvbox/raw/main/"},
+    {"url":"https://mirror.ghproxy.com/https://github.com/yw88075/tvbox/raw/main/dr/js.json","name":"yw88075_js","baes":"https://mirror.ghproxy.com/https://github.com/yw88075/tvbox/","path":"https://mirror.ghproxy.com/https://github.com/yw88075/tvbox/raw/main/dr/"},
+    {"url":"https://mirror.ghproxy.com/https://github.com/Dong-learn9/TVBox-zyjk/raw/main/tvbox2.json","name":"Dong-learn9_tvbox2","baes":"https://mirror.ghproxy.com/https://github.com/Dong-learn9/TVBox-zyjk/","path":"https://mirror.ghproxy.com/https://github.com/Dong-learn9/TVBox-zyjk/raw/main/"}
+
 	]
 }
 
