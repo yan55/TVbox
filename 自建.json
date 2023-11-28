@@ -169,7 +169,7 @@
             "name": "🚀pizazz_mai"
         },
 		{
-            "url": "https://raw.githubusercontent.com/fuping685/tvbox/main/source.json",
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fuping685/tvbox/main/source.json",
             "name": "🚀soure"
         },
 	{"url":"https://mirror.ghproxy.com/https://github.com/heroaku/TVboxo/raw/main/Text/ptest.json","name":"heroaku_ptest","baes":"https://mirror.ghproxy.com/https://github.com/heroaku/TVboxo/","path":"https://mirror.ghproxy.com/https://github.com/heroaku/TVboxo/raw/main/Text/" },
@@ -194,9 +194,15 @@
     {"url":"https://mirror.ghproxy.com/https://github.com/Guard-H/tvbox/raw/main/fj.json","name":"Guard-H_fj","baes":"https://mirror.ghproxy.com/https://github.com/Guard-H/tvbox/","path":"https://mirror.ghproxy.com/https://github.com/Guard-H/tvbox/raw/main/"},
     {"url":"https://mirror.ghproxy.com/https://github.com/yw88075/tvbox/raw/main/dr/js.json","name":"yw88075_js","baes":"https://mirror.ghproxy.com/https://github.com/yw88075/tvbox/","path":"https://mirror.ghproxy.com/https://github.com/yw88075/tvbox/raw/main/dr/"},
     {"url":"https://mirror.ghproxy.com/https://github.com/Dong-learn9/TVBox-zyjk/raw/main/tvbox2.json","name":"Dong-learn9_tvbox2","baes":"https://mirror.ghproxy.com/https://github.com/Dong-learn9/TVBox-zyjk/","path":"https://mirror.ghproxy.com/https://github.com/Dong-learn9/TVBox-zyjk/raw/main/"}
-
+{
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/FM.json",
+            "name": "🚀FM"
+        },
 	]
 }
+// 
+
+
 
 
  
